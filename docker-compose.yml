@@ -52,3 +52,6 @@ services:
 volumes:
   postgres_data_movie:
   postgres_data_cast:
+# volumes:
+#   postgres_data_movie:
+#   postgres_data_cast:
